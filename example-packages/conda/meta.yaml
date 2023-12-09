@@ -1,5 +1,5 @@
 package:
-  name: conda_gc_test
+  name: python=x.x
   version: 1.2.1
 
 build:
